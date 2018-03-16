@@ -21,7 +21,7 @@
 ## Installation
 
 ```sh
-$ npm install co-open-wechat-api
+$ npm install co-wxapp-open-api
 ```
 
 ## Usage
