@@ -1,6 +1,8 @@
 'use strict'
 
 const API = require('./lib/api_common')
+// 授权
+API.mixin(require('./lib/api_auth'))
 // 代码模板
 API.mixin(require('./lib/api_code_template'))
 // 代码
