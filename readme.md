@@ -1,6 +1,14 @@
 微信小程序第三方平台api
 ===========
 
+[![NPM version][npm-image]][npm-url]
+[![npm download][download-image]][download-url]
+
+[npm-image]: https://img.shields.io/npm/v/co-wxapp-open-api.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/co-wxapp-open-api
+[download-image]: https://img.shields.io/npm/dm/co-wxapp-open-api.svg?style=flat-square
+[download-url]: https://npmjs.org/package/co-wxapp-open-api
+
 ## 功能列表
 - 数据分析
 - 权限管理
