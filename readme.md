@@ -1,12 +1,13 @@
-微信小程序第三方平台Node库api
+微信小程序第三方平台api
 ===========
-微信小程序第三方平台Node库api
 
 ## 功能列表
+- 数据分析
+- 权限管理
 - 代码模板管理
 - 代码管理
 - 域名设置
-- 多媒体
+- 多媒体(图片)
 - 客服消息
 - 附近的位置
 - 开放平台
@@ -25,3 +26,8 @@ $ npm install co-wxapp-open-api
 ```
 
 ## Usage
+```js
+var WxappApi = require('co-wxapp-open-api')
+var wxappApi = new WxappApi(appId, appSecret, authorizerAppid, authorizerRefreshToken, ticket)
+var preAuthCode = yield wxappApi.createPreAuthCode()
+```
