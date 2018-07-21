@@ -1,4 +1,4 @@
-微信小程序第三方平台api
+微信小程序第三方平台api (es5版)
 ===========
 
 [![NPM version][npm-image]][npm-url]
