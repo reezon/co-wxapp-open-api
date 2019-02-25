@@ -28,6 +28,7 @@
 - 获取用户信息
 - 快速创建小程序
 - 内容安全
+- 搜索widget
 
 
 ## Installation
