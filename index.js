@@ -41,5 +41,7 @@ API.mixin(require('./lib/api_sec_check'))
 API.mixin(require('./lib/api_mall'))
 // 订阅消息
 API.mixin(require('./lib/api_new_template'))
+// 扫码关注组件
+API.mixin(require('./lib/api_subscribe_biz'))
 
 module.exports = API

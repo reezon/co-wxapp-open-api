@@ -30,6 +30,7 @@
 - 内容安全
 - 搜索widget
 - 订阅消息
+- 扫码关注组件
 
 
 ## Installation
