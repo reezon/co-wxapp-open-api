@@ -43,5 +43,9 @@ API.mixin(require('./lib/api_mall'))
 API.mixin(require('./lib/api_new_template'))
 // 扫码关注组件
 API.mixin(require('./lib/api_subscribe_biz'))
+// 物流助手
+API.mixin(require('./lib/api_express_business'))
+// 风险识别
+API.mixin(require('./lib/api_risk'))
 
 module.exports = API
