@@ -47,5 +47,7 @@ API.mixin(require('./lib/api_subscribe_biz'))
 API.mixin(require('./lib/api_express_business'))
 // 风险识别
 API.mixin(require('./lib/api_risk'))
+// 获取小程序scheme码
+API.mixin(require('./lib/api_scheme'))
 
 module.exports = API
