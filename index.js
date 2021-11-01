@@ -49,5 +49,7 @@ API.mixin(require('./lib/api_express_business'))
 API.mixin(require('./lib/api_risk'))
 // 获取小程序scheme码
 API.mixin(require('./lib/api_scheme'))
+// 小程序用户隐私保护指引
+API.mixin(require('./lib/api_privacy'))
 
 module.exports = API
