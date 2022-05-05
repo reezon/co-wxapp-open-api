@@ -53,5 +53,7 @@ API.mixin(require('./lib/api_scheme'))
 API.mixin(require('./lib/api_privacy'))
 // 违规和申诉管理
 API.mixin(require('./lib/api_record'))
+// 申请隐私接口
+API.mixin(require('./lib/api_apply_api'))
 
 module.exports = API
