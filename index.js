@@ -51,5 +51,7 @@ API.mixin(require('./lib/api_risk'))
 API.mixin(require('./lib/api_scheme'))
 // 小程序用户隐私保护指引
 API.mixin(require('./lib/api_privacy'))
+// 违规和申诉管理
+API.mixin(require('./lib/api_record'))
 
 module.exports = API
