@@ -1,6 +1,6 @@
 {
   "name": "co-wxapp-open-api",
-  "version": "1.1.47",
+  "version": "1.1.48",
   "description": "co api library for wxapp open platform",
   "main": "index.js",
   "scripts": {
